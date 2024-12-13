@@ -2,5 +2,5 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## Estos cambios son nuevos desde Github
-Son nuevos larry
+## Estos cambios son de Git
+Son nuevos cacho larry
